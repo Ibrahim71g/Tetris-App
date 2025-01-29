@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'LCD Solid';
+  src: url('./assets/font/LcdSolid-VPzB.ttf');
+}
+
+* {
+  font-family: 'LCD Solid', sans-serif;
+  color: aliceblue;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* @font-face{
+    font-family: 'Pixel';
+    src: url(..)
+}
+     */
+
+/* // const StyledTetris = styled.div`
+//   display: flex;
+//   align-items: flex-start;
+//   padding: 40px;
+//   margin: 0 auto;
+//   max-width: 900px;
+
+//   aside {
+//     width: 100%;
+//     max-width: 200px;
+//     display: block;
+//     padding: 0 20px;
+//   }
+// `; */
