@@ -67,7 +67,7 @@ The **Activity Diagram** illustrates the sequence of actions when a user fetches
 ---
 
 ## **Demo**
-![Verse Vault Demo](ScreenShot/Demo/Demo.mp4)  
+![Verse Vault Demo](ScreenShot/Demo/Demo.gif)  
 *Above: A brief walkthrough of the core features.*
 
 ---
